@@ -23,7 +23,7 @@ A fully automated end-to-end pipeline that performs **financial sentiment analys
 ##  Live Demo
 
  **Try it live on Streamlit:**  
- [Click here to open the app]([https://share.streamlit.io/your-username/nvidia-sentiment-bot/main/app.py](https://nvidia-sentiment-bot-bek8lxuks5fhthzesvrdbw.streamlit.app/))  
+ [Click here to open the app]([[https://share.streamlit.io/your-username/nvidia-sentiment-bot/main/app.py](https://nvidia-sentiment-bot-bek8lxuks5fhthzesvrdbw.streamlit.app/](https://nvidia-sentiment-bot-bek8lxuks5fhthzesvrdbw.streamlit.app/#stock-price-vs-sentiment)))  
 
 ---
 
