@@ -23,7 +23,7 @@ A fully automated end-to-end pipeline that performs **financial sentiment analys
 ##  Live Demo
 
  **Try it live on Streamlit:**  
- [Click here to open the app]([https://share.streamlit.io/iamzimozic/nvidia-sentiment-bot/main/app.py])  
+ [Click here to open the app](https://share.streamlit.io/iamzimozic/nvidia-sentiment-bot/main/app.py)  
 
 ---
 
