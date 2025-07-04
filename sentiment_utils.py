@@ -59,9 +59,9 @@ def classify_signals(df):
     grouped["net_score"] = (grouped["positive"] - grouped["negative"]) / grouped["total"]
 
     def signal_rule(row):
-        if row["positive_pct"] > 0.7:
+        if row["positive_pct"] > 0.5:
             return "Bullish"
-        elif row["negative_pct"] > 0.5:
+        elif row["negative_pct"] > 0.3:
             return "Bearish"
         else:
             return "Neutral"
